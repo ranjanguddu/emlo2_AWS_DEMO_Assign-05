@@ -1,0 +1,8 @@
+# --extra-index-url https://download.pytorch.org/whl/cpu
+# torch==1.11.0+cpu
+# torchvision==0.12.0+cpu
+# gradio==3.3.1
+boto3==1.24.85
+timm==0.6.7
+gradio==3.3.1
+             
