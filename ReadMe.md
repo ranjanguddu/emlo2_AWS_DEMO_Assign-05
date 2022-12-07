@@ -14,4 +14,7 @@ This assignment comprises the concept of
 ### **Command to run Docker image**:
 docker run -it -p 80:80 assign-05-final
 
+### EMLO2 submission link: https://github.com/The-School-of-AI/emlov2-session-5-ranjanguddu
+
+
 
